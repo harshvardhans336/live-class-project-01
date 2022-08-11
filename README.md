@@ -4,7 +4,7 @@ iNeuron
 <br>
 <br>
 
-![Alt text](/screenshot%20project%201.png)
+![Alt text](/Project 1 Street Style Landing Page.png)
 
 <br>
 <br>
